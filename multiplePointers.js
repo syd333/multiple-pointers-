@@ -19,3 +19,6 @@
         }
 
         sumZero([-4, -3, -2, -1, 0, 1, 2, 5])
+
+        // TIME COMPLEXITY - O(N^2)
+        // SPACE COMPLEXITY - O(1)
